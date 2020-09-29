@@ -1,7 +1,7 @@
 import React from 'react';
 
 function HomeLink(){
-    
+    //change
         return (
             <div className="inline-block">
                 <div className="inline-block">
